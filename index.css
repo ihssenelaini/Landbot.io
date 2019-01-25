@@ -1,0 +1,72 @@
+
+.logo{
+    margin-left: 87px;
+     margin-top: 64px;
+    color:blanchedalmond;
+    width: 1031px;
+    font-weight: bold;
+    font-size: x-large;
+    
+}
+header{
+    display: flex;
+    justify-content:flex-end;
+}
+.nav-link{
+    margin-right: 82px;
+    margin-top:25px;
+    width:100px;
+    display: contents;
+    align-items: center;
+    font-weight:bold;
+    color: antiquewhite;
+}
+
+.discussion{
+    margin-left: 380px;
+    margin-top:-80px;
+}
+.user-actions{
+    margin-left: 380px;
+    
+}
+.badge-danger{
+    width: 123px;
+
+height: 35px;
+}
+.container-fluid{
+    background-color: rgb(142, 39, 151);
+}
+nav{
+    display: flex;
+    justify-content:center;
+}
+.box1{
+    background-color: beige;
+    border: black;
+    width: 550px;
+    height: 50px;
+    border-radius: 23px;
+    color: blue;
+    text-align: center;
+}     
+.box2{
+    width: 250px;
+    height: 50px;
+    margin-top: 20px;
+}
+.box3{
+    height:80px;
+    width:350px;
+    margin-top: 120px;
+
+}
+.box4{
+    width:350px;
+}
+
+.btn-primary {
+    color:red;
+
+}
